@@ -1,5 +1,4 @@
-Here’s your README updated with emojis while keeping it clean and professional. 🎯
-🎆 Explosion Fireworks with Deep Bass Sound 🔊
+*🎆 Explosion Fireworks with Deep Bass Sound 🔊*
 
 An immersive Three.js fireworks experience featuring high-density particle explosions, cinematic bloom, and procedural deep bass explosion sound designed with the Web Audio API. The show starts on click and runs with configurable physics, visuals, and audio controls via a sleek GUI panel.
 
@@ -63,8 +62,7 @@ An immersive Three.js fireworks experience featuring high-density particle explo
 1️⃣ Clone or download
 
 bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/NikDev345/cracker-animation>
 
 2️⃣ Run a local server
 
