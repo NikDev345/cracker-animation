@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Explosion Fireworks with Sound</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="explosion.css" />
+
+  <!-- Import map for module paths -->
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="canvas-container"></div>
+
+  <div id="overlay">
+    <div>CLICK TO START</div>
+    <span>
+      Feature:
+      <span class="highlight">Fireworks with Explosion Deep Boom Sound</span>
+    </span>
+  </div>
+
+  <!-- Your explosion logic as an ES module -->
+  <script type="module" src="explosion.js"></script>
+</body>
+</html>
