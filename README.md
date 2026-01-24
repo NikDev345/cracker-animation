@@ -204,6 +204,9 @@ If you later move to a bundler (Vite, Webpack, etc.), you can drop the import ma
 
     Mobile performance mode with adaptive particle counts.
 
+will update this repo soon 
+stay tuned
+
 📜 License
 
     This project is licensed under the MIT License – feel free to use, modify, and share with attribution.
