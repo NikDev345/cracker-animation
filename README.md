@@ -202,11 +202,13 @@ If you later move to a bundler (Vite, Webpack, etc.), you can drop the import ma
 
     Add screenshot / video capture integration.
 
-    Mobile performance mode with adaptive particle counts.
+    Mobile performance mode with adaptive particle counts 
 
-will update this repo soon 
-stay tuned
+will update this repo soon
+stay tuned 
+and make sure you follow my account for upcoming updates 
 
+thank you 
 📜 License
 
     This project is licensed under the MIT License – feel free to use, modify, and share with attribution.
